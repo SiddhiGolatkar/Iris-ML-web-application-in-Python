@@ -274,4 +274,4 @@ yapf==0.28.0
 yfinance==0.1.55
 zict==1.0.0
 zipp==2.2.0
-streamlit
+
